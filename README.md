@@ -1,4 +1,4 @@
-<h1>Hi, I'm Linus! <br/><a href="https://github.com/LINUSOBURA">Programmer</a>, <a href="https://www.linkedin.com/in/linusobura/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Linus! <br/><a href="https://github.com/LINUSOBURA">Programmer</a>, <a href="https://www.linkedin.com/in/linusobura/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/linusobura">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
