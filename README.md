@@ -20,7 +20,7 @@
 [<img align="left" alt="LinusObura | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/oburalinus
-[youtube]: https://www.youtube.com/c/linusobura
+[youtube]: https://www.youtube.com/@linusobura
 [instagram]: https://www.instagram.com/oburah_/
 [linkedin]: https://www.linkedin.com/in/linusobura/
 
