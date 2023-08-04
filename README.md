@@ -14,14 +14,14 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinusObura | YouTube" width="22px" src="https://icons8.com/icon/19318/youtube" />][youtube]
+[<img align="left" alt="LinusObura | Twitter" width="22px" src="https://icons8.com/icon/13963/twitter" />][twitter]
+[<img align="left" alt="Linusobura | LinkedIn" width="22px" src="https://icons8.com/icon/13930/linkeding" />][linkedin]
+[<img align="left" alt="LinusObura | Instagram" width="22px" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: https://twitter.com/oburalinus
+[youtube]: https://www.youtube.com/c/linusobura
+[instagram]: https://www.instagram.com/oburah_/
 [linkedin]: https://www.linkedin.com/in/linusobura/
 
 <!--
