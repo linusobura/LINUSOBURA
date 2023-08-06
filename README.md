@@ -12,6 +12,7 @@
 
 <h2>🔐 CyberSecurity Pojects:</h2>
 - <b> Active Directory HomeLab Walkthrough</b>
+  - [Find it on my blog](https://securelinus.blogspot.com/2023/08/what-is-active-directory-active.html) 
 
 
 <h2>📺 Popular YouTube Videos</h2>
