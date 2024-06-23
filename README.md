@@ -20,13 +20,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<svg align="left" alt="LinusObura | YouTube" width="22px" height="22px" viewBox="0 0 24 24"> <path fill="#FF0000" d="M19.615 3.184c-4.367-3.63-12.863-3.63-17.23 0C.726 3.904 0 4.892 0 5.968v12.065c0 1.076.726 2.064 2.385 2.784 4.367 3.63 12.863 3.63 17.23 0 1.659-.72 2.385-1.708 2.385-2.784V5.968c0-1.076-.726-2.064-2.385-2.784zM9.617 16.032V7.968l6.765 4.032-6.765 4.032z"/>
-  </svg>]
-
-[<img align="left" alt="LinusObura | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="LinusObura | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Linusobura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinusObura | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[[<img align="left" alt="LinusObura | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]][youtube]
+[[<img align="left" alt="LinusObura | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]][twitter]
+[[<img align="left" alt="Linusobura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]][linkedin]
+[[<img align="left" alt="LinusObura | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]][instagram]
 
 [twitter]: https://twitter.com/oburalinus
 [youtube]: https://www.youtube.com/@linusobura
