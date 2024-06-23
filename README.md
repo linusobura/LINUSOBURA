@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Evidence Chain (E-chain)</b>
-  - [E-chain. A secure online chain of evidence system](https://github.com/LINUSOBURA/echain/tree/master)
-- <b>Covid19-statistics-webapp</b>
-  - [Covid 19 data tracker](https://github.com/LINUSOBURA/covid19-statistics-webapp)
+- <b>Clocks_Ke</b>
+  - [An E-commerce Website built with django](clockske-8ce98786bb8a.herokuapp.com)
+- <b>GetFit</b>
+  - [A Workout generator App Made with React and Tailwind CSS](https://getfit-today.netlify.app)
 
-- <b>Ecommerce Website<b>
-  - [Redstore](https://github.com/LINUSOBURA/redstore). [Preview](https://linusobura.github.io/redstore/)
+- <b>Astronomy Picture of the Day<b>
+  - [This is a simple react project which displays the APOD, fetched from the NASA API.](https://linus-nasa-apod.netlify.app)
 
 <h2>🔐 CyberSecurity Pojects:</h2>
 - <b>Active Directory HomeLab Walkthrough</b>
