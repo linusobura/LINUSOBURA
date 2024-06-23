@@ -20,7 +20,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="LinusObura | YouTube" width="22px" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LinusObura | YouTube" width="22px" style="color:white" src="https://www.svgrepo.com/svg/13671/youtube" />][youtube]
 [<img align="left" alt="LinusObura | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Linusobura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LinusObura | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
