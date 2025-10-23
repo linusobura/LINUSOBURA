@@ -7,8 +7,8 @@
 - <b>CVSTORE</b>
   - [AN AI-Powered Resume Builder with version management](https://cvstore.pro)
 
-- <b>Astronomy Picture of the Day<b>
-  - [This is a simple react project which displays the APOD, fetched from the NASA API.](https://linus-nasa-apod.netlify.app)
+- <b>Virtual Assistent Portfolio<b>
+  - [This is a simple portfolio page for a client.](https://masibo.netlify.app/)
 
 <h2>🔐 CyberSecurity Pojects:</h2>
 - <b>Active Directory HomeLab Walkthrough</b>
