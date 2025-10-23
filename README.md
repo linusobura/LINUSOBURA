@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Clocks_Ke</b>
-  - [An E-commerce Website built with django](https://clockske-8ce98786bb8a.herokuapp.com)
-- <b>GetFit</b>
-  - [A Workout generator App Made with React and Tailwind CSS](https://getfit-today.netlify.app)
+- <b>Atiam College Landing Page and CMS</b>
+  - [A College Management Platform built for ATIAM College](https://atiamcollege.com)
+- <b>CVSTORE</b>
+  - [AN AI-Powered Resume Builder with version management](https://cvstore.pro)
 
 - <b>Astronomy Picture of the Day<b>
   - [This is a simple react project which displays the APOD, fetched from the NASA API.](https://linus-nasa-apod.netlify.app)
